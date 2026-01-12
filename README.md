@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sipho Zwane 👋🏽
 
-<!--
-**szwanne/szwanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineering learner** with a strong foundation in **problem-solving, logical thinking, and real-world application development**.
 
-Here are some ideas to get you started:
+Currently training through **WeThinkCode_** and **ALX Africa**, where I focus on writing clean, maintainable code and building projects that solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m Working On
+- JavaScript fundamentals & intermediate concepts
+- Front-end development (HTML, CSS, JS)
+- Building project-based applications
+- Preparing for technical interviews (DSA & problem-solving)
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** JavaScript
+- **Front-End:** HTML, CSS
+- **Tools:** Git, GitHub, VS Code
+- **Currently Learning:** React.js, Tailwind CSS
+
+---
+
+## 🧩 Problem-Solving Mindset
+I enjoy breaking down complex problems, understanding systems deeply, and building solutions that are both efficient and user-focused.
+
+---
+
+## 🎯 Career Goal
+To become a **top-tier software engineer** contributing to impactful products while continuously sharpening my technical depth and engineering discipline.
+
+---
+
+## 📫 Let’s Connect
+- GitHub: [github.com/szwanne](https://github.com/szwanne)
+
+
